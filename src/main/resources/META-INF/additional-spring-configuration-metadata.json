@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "holiday.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'holiday.jpa.show-sql'"
+  },
+  {
+    "name": "holiday.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'holiday.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "holiday.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'holiday.datasource.password'"
+  },
+  {
+    "name": "holiday.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'holiday.datasource.username'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "holiday.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'holiday.datasource.url'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  },
+  {
+    "name": "?useSSL",
+    "type": "java.lang.String",
+    "description": "A description for '?useSSL'"
+  }
+]}
